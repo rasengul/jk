@@ -12,4 +12,5 @@
 
 //para crear una archivo es capeta/texto/ 
 
-![https://es.wikipedia.org/wiki/Enana_roja](https://github.com/rasengul/jk/blob/main/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg)
+![](https://github.com/rasengul/jk/blob/main/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg)
+
