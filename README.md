@@ -12,7 +12,11 @@
 
 //para crear una archivo es capeta/texto/ 
 
+
+
 #testeo imagen 1
+
+
 
 ![](https://github.com/rasengul/jk/blob/main/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg)
 
