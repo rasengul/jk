@@ -44,10 +44,12 @@
 
 ## Indice
 
-![](https://github.com/rasengul/jk/edit/main/Vscode/README.md)
+![](Vscode/README.md)
 
 
 # video 1
 
 
 ![](https://youtu.be/lWeEF5fmdko?si=-NfISoSXl4U1OFTY)
+
+
