@@ -15,5 +15,5 @@ srt
 int
 float
 bool 0 y 1
-
+# esto funciona como // para que no este en el codigo
 esto seara como una especie de borrador para el README
