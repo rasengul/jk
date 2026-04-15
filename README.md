@@ -43,14 +43,5 @@
 # Indice
 
 
-## Indice
-
-- [Visual studio code](Vscode/README.md)
-
-
-# video 1
-
-
-![](https://youtu.be/lWeEF5fmdko?si=-NfISoSXl4U1OFTY)
 
 
