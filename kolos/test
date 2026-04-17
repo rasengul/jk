@@ -18,5 +18,6 @@ float
 bool es 0 y 1 (verdadero o falso)
 (#) esto funciona como // para que no este en el codigo
 la caja es como (definir como) en pselnt
+def es para definir una funcion 
 
 esto seara como una especie de borrador para el README
