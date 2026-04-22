@@ -7,4 +7,4 @@
 
 
 ## enlaces
-- [python](python/Hola_mundo.md) 
+- [python](python/Hola_mundo) 
