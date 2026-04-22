@@ -48,7 +48,7 @@
 
 ### python
 
--[python](python/README.md)
+- [python](python/README.md)
 
 # video 1
 
