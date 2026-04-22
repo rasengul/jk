@@ -1,1 +1,6 @@
+int 
+str
+float
+bool
+
 
