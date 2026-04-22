@@ -1,3 +1,4 @@
+#cosas iniciales
 int 
 
 str
