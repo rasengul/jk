@@ -48,7 +48,7 @@
 
 ### python
 https://github.com/rasengul/jk/blob/main/python/operaciones%20basicas.md
--[python](python/Hola mundo.md)
+-[](python/Hola mundo.md)
 # video 1
 
 
