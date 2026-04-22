@@ -1,4 +1,4 @@
-#cosas iniciales
+# cosas iniciales
 
 int 
 
