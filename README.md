@@ -46,7 +46,7 @@
 
 - [Visual studio code](Vscode/README.md)
 
-
+https://github.com/rasengul/jk/blob/main/python/operaciones%20basicas.md
 # video 1
 
 
