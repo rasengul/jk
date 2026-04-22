@@ -47,8 +47,9 @@
 - [Visual studio code](Vscode/README.md)
 
 ### python
-https://github.com/rasengul/jk/blob/main/python/operaciones%20basicas.md
--[](python/Hola mundo.md)
+
+-
+
 # video 1
 
 
