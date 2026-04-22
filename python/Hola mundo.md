@@ -2,4 +2,4 @@
 
 
 
-print ("hola mundo")
+Ejemplo: print ("hola mundo")
