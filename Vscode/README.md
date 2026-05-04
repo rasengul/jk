@@ -1,4 +1,5 @@
-# que es visual estudio 
+# Que es visual estudio 
 Visual estudio code es una editor de codigo de microsoft se basa en la simplisidad y en la eficiencia para experiencia excelente a la ahora de programar.
 Edicion y desarrollo de codigo con una interfaz interfar intuitiva con herramientas (extenciones y ia integrada eso si la ia es una espada de doble filo por que te puede ayudar o dar vueltas una y otra vez con el codigo como me pasa a mi y sertir que estas estacado) identifica errores en tus aplicaciones, videojuegos ejm (usrina para prototipos de juegos) con sus herramientas de encontrar errores puedes ver dentro de visual studio code tus proyectos y carpetas de trabajo lo puede conectar con github y ahi te ponen su ia y se puede trabajar en equipo y de forma sincronizada y de forma remota 
 Visual estudio code tiene muchos lenguajes de programacion como c,c++, python, tambien puede con frameworks (osea un conjunto estandarizado de herramientas)
+Vs code es ideal para aplicaciones web y front-end (osea una parte de un sitio web o aplicacion con la que los usuarios interatuan directamente)
