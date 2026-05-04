@@ -1,6 +1,6 @@
 
 # Que es python
-
+es uno de los codigos mas populares aunque este esta mas orientado a lo de creacion de inteligencias artificiales y al machine learnig(o algo asi)
 
 
 
