@@ -18,3 +18,10 @@
 
 
 ###  ¿El concepto de las bases de datos son un programa eso es verdad?
+
+
+
+
+## foto de la tabla
+
+
