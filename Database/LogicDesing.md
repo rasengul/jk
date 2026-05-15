@@ -25,3 +25,4 @@
 ## foto de la tabla
 
 
+<img width="4160" height="3120" alt="IMG_20260511_094535" src="https://github.com/user-attachments/assets/419ad079-6480-407e-b99e-8752d968d423" />
