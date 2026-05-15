@@ -23,6 +23,8 @@ tanto la base de datos como las aplicasiones son un conjunto de sprits que sirve
 
 (veo que ahora esto no tiene puntaje por el momento :( )
 
+##El "Dato" vs. "Realidad": En la pizarra se propuso usar `FLOAT` con el valor `0.5` para representar a un cachorro de 6 meses. Si el sistema debe enviar un saludo automático de "Feliz Cumpleaños" cada año, ¿qué problema técnico enfrentaríamos si solo guardamos `0.5` y no la fecha de nacimiento (`DATE`)? 
+
 
 
 ## foto de la tabla
