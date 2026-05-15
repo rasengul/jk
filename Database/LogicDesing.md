@@ -19,7 +19,7 @@ ejm: en minecraft los numeros de los bloques esta en int lo que singnifica que e
 
 
 ###  ¿El concepto de las bases de datos son un programa eso es verdad?
-
+tanto la base de datos como las aplicasiones son un conjunto de sprits que virven como bloque de legos para generar un programa o una base de datos 
 
 
 
