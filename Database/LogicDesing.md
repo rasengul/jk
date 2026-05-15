@@ -6,8 +6,8 @@
 
 
 ## ¿ Porque es mejor usar float que int en el ingreso de la edad
-
-
+Porque el int puede poner numeros negativos si la cantidad de numeros es demasiado alta 
+ejm en minecraft los numeros de los bloques esta en int lo que singnifica que en servidores anarquicos como 2b2t pueden utilizar bugs y gliches del juego para duplicar bloques del juego y tener tantos bloques que el sistema para no colapsar pone numeros negativos
 
 
 
